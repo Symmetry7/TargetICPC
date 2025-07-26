@@ -48,7 +48,7 @@ void solve() {
     sortv(v);
 
     ll maxi = 0;
-   vector<int> a = {2, 2, 3};
+   vll  a = {2, 2, 3};
 
     do {
         ll c = h;
